@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results skipped="0" failed="0" total="1" passed="1">
+  <reporter-output>
+  </reporter-output>
+  <suite name="Default suite" duration-ms="3177" started-at="2015-11-20T13:47:08Z" finished-at="2015-11-20T13:47:11Z">
+    <groups>
+    </groups>
+    <test name="Default test" duration-ms="3177" started-at="2015-11-20T13:47:08Z" finished-at="2015-11-20T13:47:11Z">
+      <class name="ctc.test.checkjars.CheckJars">
+        <test-method status="PASS" signature="check()[pri:0, instance:ctc.test.checkjars.CheckJars@19dfb72a]" name="check" duration-ms="3168" started-at="2015-11-20T07:47:08Z" finished-at="2015-11-20T07:47:11Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- check -->
+      </class> <!-- ctc.test.checkjars.CheckJars -->
+    </test> <!-- Default test -->
+  </suite> <!-- Default suite -->
+</testng-results>
